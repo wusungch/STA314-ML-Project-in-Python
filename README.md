@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to use tree-based models to classify if a patient has Alzheimer’s disease based on their demographic, lifestyle, and medical data. The goal is to support early diagnosis and intervention, improving patient outcomes and reducing healthcare costs.
+This project aims to use Tree-Based Models to classify if a patient has Alzheimer’s disease based on their demographic, lifestyle, and medical data. The goal is to support early diagnosis and intervention, improving patient outcomes and reducing healthcare costs.
 
 ### Dataset
 	•	Source: Classification of Alzheimer’s Disease Dataset
