@@ -1,6 +1,4 @@
-# STA314-ML-Project
-
-Alzheimer’s Disease Prediction Project
+# STA314-ML-Project - Alzheimer’s Classification 
 
 ## Overview
 
